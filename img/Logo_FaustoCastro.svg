@@ -1,0 +1,23 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <linearGradient y2="0" x2="1" y1="0" x1="0" id="svg_5">
+   <stop offset="0" stop-color="rgb(85, 158, 132)"/>
+   <stop offset="1" stop-color="rgb(170, 97, 123)"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect height="402" width="582" y="-1" x="-1" fill="#fff" id="canvas_background"/>
+  <g y="0" x="0" height="100%" width="100%" display="none" overflow="visible" id="canvasGrid">
+   <rect height="100%" width="100%" y="0" x="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path d="m248.257507,285.259827l117.499878,-185.999992l117.500122,185.999992l-235,0z" stroke-width="1.5" stroke="#000" fill="url(#svg_5)" id="svg_1"/>
+  <text xml:space="preserve" y="223.3426" x="345.9691" transform="matrix(3.82827 0 0 3.07481 -993.469 -446.812)" text-anchor="start" stroke-width="0" stroke="#000" fill="#00007f" style="cursor: move; pointer-events: inherit;" font-size="24px" font-family="Helvetica,Arial,sans-serif" id="svg_2">C</text>
+  <text xml:space="preserve" y="237.2491" x="364.5016" transform="matrix(2.49932 0 0 3.77578 -566.008 -632.046)" text-anchor="start" stroke-width="0" stroke="#000" fill="#00007f" font-size="24px" font-family="Helvetica,Arial,sans-serif" id="svg_3">A</text>
+  <text xml:space="preserve" y="148.66" x="357.5" transform="matrix(3.43115 0 0 3.24638 -885.958 -284.257)" text-anchor="start" stroke-width="0" stroke-opacity="null" stroke="#000" fill="#00007f" font-size="24px" font-family="Helvetica,Arial,sans-serif" id="svg_4">F</text>
+ </g>
+</svg>
